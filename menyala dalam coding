@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout <<"Coding itu sangat sley1";
+    
+    return 0;
+}
